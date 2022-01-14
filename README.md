@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LorenzHW
 - 👀 I’m interested in personal growth, sports, and coding
-- 👨‍💻 I’m currently working at [Cresta](https://www.linkedin.com/company/cresta-inc) where we build cool AI stuff. People I work with are really smart and talented
+- 👨‍💻 I’m currently working at [Cresta](https://www.linkedin.com/company/cresta-inc) where we build cool AI stuff.
 - 🔥 In 2019 I implemented the open-source tool [gnostic-grpc](https://github.com/google/gnostic-grpc) which does cool things with OpenAPI and protobufs 
